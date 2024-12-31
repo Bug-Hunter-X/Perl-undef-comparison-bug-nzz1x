@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error: incorrectly checking for undef using eq. The 'bug.pl' file shows the incorrect comparison. 'bugSolution.pl' provides the corrected code.
